@@ -3,7 +3,7 @@
 Functions for demosaicing bayer pattern images to RGB or monochromatic/panchromatic 
 images.
 
-Developer/maintainer: Neil Abcouwer, neil.abcouwer@jpl.nasa.gov
+Developer/maintainer: Neil Abcouwer, neil.abcouwer [at] jpl.nasa.gov
     
 Input bayer images can be stored in 16 bit or 8 bit unsigned integer arrays 
 (through might use only 12 bits, for instance) and can be demosaiced to 
